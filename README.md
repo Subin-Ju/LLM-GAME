@@ -271,3 +271,10 @@ f"{player_name}: 우리에게 필요한 건... 타이밍이지. 눈 깜짝할 �
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/0afb391c-ae5d-4594-a35a-f4b64a9c64c6" />
 <br>
 <img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/b2d3089d-8b61-4da2-a787-d565721351d2" />
+
+<br>
+<br>
+
+## 한계점
+1. 복잡한 프롬프트 → LLM이 프롬프팅을 잘 수행하는 부분도 있지만, 그렇지 못한 부분도 존재함.
+2. Streamlit 구현의 어려움 → jupyter notebook 환경에서는 잘 실행되던 부분들이, streamlit으로 구현하면서 오류를 일으키는 부분들이 생김. 추후 수정 및 개선이 필요함함
